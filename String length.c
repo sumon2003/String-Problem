@@ -1,3 +1,6 @@
+/*//  بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ  //*/
+/*//   Md Sumon Hossain Khan   //*/
+
 /*
 Write a program in C to find the length of a string without using library functions.
 
