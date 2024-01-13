@@ -1,3 +1,6 @@
+/*//  بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ  //*/
+/*//   Md Sumon Hossain Khan   //*/
+
 /*
 Write a program in C to print individual characters of a string in reverse order.
 
